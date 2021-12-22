@@ -22951,7 +22951,7 @@ fieldset[disabled] .btn-link:focus {
 
 .thumbnail-classic img, .thumbnail-classic figure img {
 	width: 100%;
-	height: auto;
+	height: 260px;
 	transition: .35s;
 	will-change: transform;
 }
@@ -40863,4 +40863,6 @@ a.pswp__share--download:hover {
 	}
 }
 
-/*# sourceMappingURL=style.css.map */
+.margin-top-25 {
+	margin-top: 25px
+}
