@@ -27741,7 +27741,7 @@ html .page .offset-top-155 {
 	}
 	.unit-md-horizontal > .unit-left + .unit-right,
 	.unit-md-horizontal > .unit-left + .unit-body {
-		padding-top: 0;
+		/* padding-top: 0; */
 		padding-left: 20px;
 	}
 	.unit-md-horizontal > .unit-body + .unit-right {
